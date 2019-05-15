@@ -1,2 +1,2 @@
-# comix-theme
-A Ryuzine theme with a superhero comic book look
+# comix
+Ryuzine theme with a comic book look
